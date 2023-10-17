@@ -16,3 +16,5 @@ echo "[+] setting permissions on shells wrapper"
 sudo chmod a+x "/usr/local/bin/shellz"
 
 echo "[+] done"
+
+
